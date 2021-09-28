@@ -1,0 +1,16 @@
+C:\AAT\ATT.App\ATT.App.Consola\bin\Debug\net5.0\ATT.App.Consola.exe
+C:\AAT\ATT.App\ATT.App.Consola\bin\Debug\net5.0\ATT.App.Consola.deps.json
+C:\AAT\ATT.App\ATT.App.Consola\bin\Debug\net5.0\ATT.App.Consola.runtimeconfig.json
+C:\AAT\ATT.App\ATT.App.Consola\bin\Debug\net5.0\ATT.App.Consola.runtimeconfig.dev.json
+C:\AAT\ATT.App\ATT.App.Consola\bin\Debug\net5.0\ATT.App.Consola.dll
+C:\AAT\ATT.App\ATT.App.Consola\bin\Debug\net5.0\ref\ATT.App.Consola.dll
+C:\AAT\ATT.App\ATT.App.Consola\bin\Debug\net5.0\ATT.App.Consola.pdb
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.csproj.AssemblyReference.cache
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.AssemblyInfoInputs.cache
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.AssemblyInfo.cs
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.csproj.CoreCompileInputs.cache
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.dll
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ref\ATT.App.Consola.dll
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.pdb
+C:\AAT\ATT.App\ATT.App.Consola\obj\Debug\net5.0\ATT.App.Consola.genruntimeconfig.cache
